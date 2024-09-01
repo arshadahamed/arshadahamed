@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arshadpayoneer@gmail.com**
 
-- 📄 Know about my experiences **https://arshadahamed.com/**
+- 📄 Know about my experiences **arshadahamed.com**
 
 - ⚡ Fun fact **I am Mystery**
 
