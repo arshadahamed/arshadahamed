@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshadahamed&label=Profile%20views&color=0e75b6&style=flat" alt="arshadahamed" /> </p>
 
-- 🔭 I’m currently working on **A POS system**
+- 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Asp.Net Core, Next.JS, Three.JS**
+- 🌱 I’m currently learning **Asp.Net Web API, Angular, MicroServices**
 
 - 👨‍💻 All of my projects are available at [arshadahamed.com](arshadahamed.com)
 
-- 💬 Ask me about **Vue, Laravel**
+- 💬 Ask me about **Vue, Laravel, C#, SQL,**
 
 - 📫 How to reach me **arshadpayoneer@gmail.com**
 
