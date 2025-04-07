@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Asp.Net Web API, Angular, MicroServices**
+- 🌱 I’m currently learning ** Angular, MicroServices**
 
 - 👨‍💻 All of my projects are available at [arshadahamed.com](arshadahamed.com)
 
-- 💬 Ask me about **Vue, Laravel, C#, SQL,**
+- 💬 Ask me about **Vue, Laravel, C#, SQL, Asp.Net Web API,**
 
 - 📫 How to reach me **arshadpayoneer@gmail.com**
 
